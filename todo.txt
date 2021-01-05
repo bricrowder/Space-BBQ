@@ -1,0 +1,33 @@
+Graphics
+    right bound
+    Cup
+    Beer
+    Burger
+    Hotdog
+    Ribs
+    etc.
+
+UI
+    Points
+    Screens
+    
+Player gets hats?
+    make a joint between player and hat so it wobbles little...
+
+Other effects
+
+Boss Modes:
+BBQ Crocodile!  chomp chomp! - just a timed event - you have to avoid it
+Asteroid Guy - a bunch of asteroids that throw other asteroids - you have to bounce them back to hit him
+space station - shoots lasers - again you have to shoot them back?
+Spatula - fixes the grill!
+
+Work on asteroid/food percentages, speeds, multipliers
+
+
+bullet hell shooter
+    use space bbq but make it into a bullet hell
+
+tetris clone
+
+
